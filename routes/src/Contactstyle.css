@@ -1,0 +1,9 @@
+.Contactstyle {
+    width: 100%;
+    height: 200px;
+    background-color: rgba(236, 82, 167, 0.836);
+    color:rgb(69, 75, 80);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+.Servicestyle {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(15, 243, 72);
+    color:rgb(69, 75, 80);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
